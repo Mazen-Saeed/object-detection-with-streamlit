@@ -93,7 +93,7 @@ with github_icon:
     st.image("github.png", width=30)
 
 with github_link:
-    st.markdown("[My GitHub](https://github.com/MazenSaaed11)")
+    st.markdown("[My GitHub](https://github.com/Mazen-Saeed)")
 
 with linkedin_icon:
     st.image("linkedin.png", width=30)
